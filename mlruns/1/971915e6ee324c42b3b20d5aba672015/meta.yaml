@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/971915e6ee324c42b3b20d5aba672015/artifacts
+end_time: 1739818022220
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 971915e6ee324c42b3b20d5aba672015
+run_uuid: 971915e6ee324c42b3b20d5aba672015
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739818016295
+status: 3
+tags: []
+user_id: vagrant
